@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/webpack.config.dev.js" />
+        <item url="file://$PROJECT_DIR$/dist/buildScripts/startMessage.js" />
+        <item url="file://$PROJECT_DIR$/dist/eslintrc.json" />
+        <item url="file://$PROJECT_DIR$/dist/buildScripts/srcServer.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/index.css.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/index.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/webpack.config.dev.js" />
+      <root url="file://$PROJECT_DIR$/dist/buildScripts/startMessage.js" />
+      <root url="file://$PROJECT_DIR$/dist/eslintrc.json" />
+      <root url="file://$PROJECT_DIR$/dist/buildScripts/srcServer.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/index.css.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/index.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

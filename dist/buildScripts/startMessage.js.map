@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../buildScripts/startMessage.js"],"names":["console","log","green"],"mappings":";;AAAA;;;;;;AAEAA,QAAQC,GAAR,CAAY,gBAAMC,KAAN,CAAY,6BAAZ,CAAZ,E,CAAyD","file":"startMessage.js","sourcesContent":["import chalk from 'chalk';\n\nconsole.log(chalk.green('Starting app in dev mode...')); // eslint-disable-line no-console"]}
